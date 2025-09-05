@@ -42,7 +42,6 @@ b=c
 *Logic
 if n==0 and n==1 
 return 1 
-
 as factorial of 0! = 1!
 and so on
 
@@ -85,8 +84,11 @@ and not
 end 
 
 
-These some problems with solving  
-date: 9-5-1=2025
-time: 9:14 PM
+These some problems with solving !!
+Take it for reference learners
+
+# Date: 9-5-1=2025
+# Time: 9:14 PM
+
 
 
